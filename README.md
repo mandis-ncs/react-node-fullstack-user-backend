@@ -122,12 +122,12 @@ Os erros são tratados usando middlewares personalizados. Exemplo de resposta de
 ```
 
 ##  🛠️ Possíveis Melhorias Futuras
-✅ Adicionar autenticação JWT para rotas protegidas
-✅ Implementar cache com Redis
-✅ Criar integração com um serviço de mensagens (ex: RabbitMQ)
-✅ Melhorar a cobertura de testes
-✅ Implementar tipagem com TypeScript
-✅ Reestruturar para arquitetura limpa
+- ✅ Adicionar autenticação JWT para rotas protegidas
+- ✅ Implementar cache com Redis
+- ✅ Criar integração com um serviço de mensagens (ex: RabbitMQ)
+- ✅ Melhorar a cobertura de testes
+- ✅ Implementar tipagem com TypeScript
+- ✅ Reestruturar para arquitetura limpa
 
 ##  ⚠️ Dependências
-Esse repositório tem como dependência não obrigatória a interface desenvolvida em React.js, confira [aqui](https://github.com/mandis-ncs/react-node-fullstack-user)
+Esse repositório tem como dependência não obrigatória a interface desenvolvida em React.js, confira [aqui](https://github.com/mandis-ncs/react-node-fullstack-user)!
